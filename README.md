@@ -1,5 +1,7 @@
 # System_Design1
-struct Item {
+
+``` cpp
+    struct Item {
     double price;
     int quantity;
 };
